@@ -9,7 +9,7 @@ This is a simple Tic-Tac-Toe game built using React. It allows two players to ta
 
 ## Installation
 1. Clone this repository:
-      git clone https://github.com/your-username/tic-tac-toe-react.git
+      git clone https://github.com/PujithaMohan/Tic-Tac-Toe-React.git
    
 2. Navigate into the project directory:
       cd tic-tac-toe-react
@@ -18,7 +18,7 @@ This is a simple Tic-Tac-Toe game built using React. It allows two players to ta
       npm install
   
 4. Start the development server:
-      npm start
+      npm run dev
    
 5. Open your browser and visit `http://localhost:3000` to play the game.
 
